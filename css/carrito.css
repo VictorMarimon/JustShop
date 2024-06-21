@@ -1,7 +1,7 @@
 :root{
     --color--principal: #fff;
-    --color--secundario: #00BF63;
-    --color--terciario: #FFBD59;
+    --color--secundario: #4F9D69;
+    --color--terciario: #FF6663;
     --color--negro: #000;
     --color--gris: rgb(95, 93, 93);
 }
@@ -62,7 +62,7 @@ body{
 
 .contenido__secciòn__producto{
     display: flex;
-    align-items: flex-start;
+    align-items: center;
     border: solid 3px;
     border-color: var(--color--negro);
     border-radius: 15px;
@@ -93,7 +93,8 @@ body{
 }
 
 .contenido__secciòn__producto--pagar:hover{
-    color: var(--color--terciario);
+    background-color: var(--color--terciario);
+    color: var(--color--negro);
     font-size: 15px;
 }
 
@@ -111,6 +112,8 @@ body{
 }
 
 .contenido__secciòn--comprar:hover{
+    background-color: var(--color--terciario);
+    color: var(--color--negro);
     font-size: 16.6px;
 }
 
@@ -120,7 +123,8 @@ body{
 
 .contenido__secciòn--comprarenlace:hover,
 .contenido__secciòn--vaciar:hover{
-    color: var(--color--terciario);
+    background-color: var(--color--terciario);
+    color: var(--color--negro);
 }
 
 .contenido__secciòn--botones{
