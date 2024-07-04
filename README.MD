@@ -9,7 +9,23 @@ El proyecto se compone de dos carpetas la primera es css donde se encontrarán t
 
 ├── css
 
+    ├── carrito.css
+
+    ├── index.css
+
 ├── html
+
+    ├── abrigos.html
+
+    ├── camisetas.html
+
+    ├── carrito.html
+
+    ├── carrito_producto-1.html
+
+    ├── carrito_vacio.html
+
+    ├── pantalones.html
 
 └── index.html
 
