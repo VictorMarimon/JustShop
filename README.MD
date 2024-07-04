@@ -8,7 +8,9 @@ Este repositorio contiene el código fuente de un sitio web de compras online di
 El proyecto se compone de dos carpetas la primera es css donde se encontrarán todos los archivos (2) css de la pagina y en la segunda carpeta llamada html se encontrará toda la estructura html de la pagina web, ademas del archivo principal **index.html**.
 
 ├── css
+
 ├── html
+
 └── index.html
 
 ## Demo
