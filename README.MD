@@ -46,6 +46,6 @@ El proyecto se compone de dos carpetas la primera es css donde se encontrarán t
 
 ## AUTOR
 
-Victor Andres Marimon Mendoza **Camper**
+:technologist: Victor Andres Marimon Mendoza **Camper**
 
 ¡Gracias por visitar este proyecto!
